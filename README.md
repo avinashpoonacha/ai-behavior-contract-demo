@@ -1,9 +1,8 @@
-[README.md](https://github.com/user-attachments/files/27502618/README.md)
 # AI Behavior Contract Demo
 
-This companion repo supports the blog post **"The AI Behavior Contract: How Enterprises Can Detect and Control Model Drift."**
+This companion repo supports the blog post **["The AI Behavior Contract: How Enterprises Can Detect and Control Model Drift."](https://avinashpoonacha.us/writing/the-model-is-not-yours)**
 
-It demonstrates a lightweight contract-checker pattern for a regulated complaint-triage assistant. The repo is intentionally small: it is not a production complaint-management system, and it does not call a live LLM. Instead, it uses canned assistant outputs to show how a workflow-specific behavior contract can become a runnable engineering artifact.
+It demonstrates a lightweight contract-checker pattern for a regulated complaint-triage assistant. The repo is intentionally small: it is not a production complaint-management system, and it does not attempt to solve model alignment in general.
 
 ## What this demonstrates
 
